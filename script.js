@@ -87,4 +87,4 @@ btnHold.addEventListener('click', () => {
   }
 });
 // Start new game
-// btnNew.addEventListener('click', init);
+btnNew.addEventListener('click', init);
